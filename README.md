@@ -48,7 +48,7 @@ This is different from:
 
 ## Setup
 
-It requires [sqlite.lua](https://github.com/tami5/sqlite.lua), because its
+It requires [sqlite.lua](https://github.com/kkharji/sqlite.lua), because its
 easier and faster than having a flat text file that keeps track of input +
 picker + cwd.
 
